@@ -14,9 +14,13 @@ Gor creating this app, i used Javascript, Bootstrap and html/css as well.
 
 * Modify
 ![2](https://user-images.githubusercontent.com/36522492/55201502-9910d300-51c3-11e9-9927-cf6b1cecb811.PNG)
+---
 
 * Delete
 ![3](https://user-images.githubusercontent.com/36522492/55201503-9ada9680-51c3-11e9-8442-02fc87a11599.PNG)
+----
 
 * Confirm
 ![33](https://user-images.githubusercontent.com/36522492/55201505-9ca45a00-51c3-11e9-864e-e89637c36f0c.PNG)
+----
+### Dounia Ait Hammi
