@@ -1,0 +1,54 @@
+<html lang="en">
+<head>
+    <title>Books Manager</title>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+
+</head>
+<body>
+
+    
+ <div class=" box col-md-8 offset-md-2 col-sm-12">
+
+       <div class="header">
+          <img src="2.png" alt="book" class="">
+          <p class="">Add Book</p>
+       </div>
+
+    <form>
+
+        <div class="form-group">
+          <label for="title">Title</label>
+          <input type="text" class="form-control" id="title"
+              placeholder=" Title">
+        </div>
+
+        <div class="form-group">
+          <label for="author">Author</label>
+          <input type="text" class="form-control" id="author" placeholder="Author">
+        </div>
+
+        <div class="form-group">
+                <label for="description">Description</label>
+                <textarea type="" class="form-control" id="description" placeholder="Description" rows="3"></textarea>
+          </div>
+    
+
+      </form>
+      <div><button type="submit" class="btn btn-primary" onclick="addBook()" id="addButton">Add Book</button></div>
+      <div><button type="submit" class="btn btn-primary" id="changeButton" hidden>Save changes</button></div>
+      <br> <br>
+
+      <table class="table" id="myTable">
+            <tr> <th>Title</th> <th>Author</th> <th>Description</th><th>Edit</th><th>Delete</th></tr>
+      </table>
+
+    </div>
+
+      <!--JS-->
+      <link rel="stylesheet" type="text/css" href="C:\Users\HP\Desktop\Downloads\bootstrap-4.3.1-dist\css\bootstrap.min.css"/>
+
+      <script src="script.js"></script>
+
+</body>
+</html>
+

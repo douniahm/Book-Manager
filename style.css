@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+.box{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    
+}
+
+.header {
+    font-size: 30px;
+    text-align: center;
+    color: black;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 3px #000; 
+
+}
+
+img{
+    width: 10%;
+    height: 10%;
+}
